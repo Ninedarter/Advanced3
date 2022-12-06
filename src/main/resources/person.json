@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tomas",
+    "age": 21,
+    "country": "Lithuania",
+    "devices": [
+      {
+        "name": "Phone",
+        "price": 100
+      },
+      {
+        "name": "TV",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "name": "Ana",
+    "age": 62,
+    "country": "Poland",
+    "devices": [
+      {
+        "name": "Washing Machine",
+        "price": 50
+      },
+      {
+        "name": "Microwave",
+        "price": 250
+      }
+    ]
+  }
+]
